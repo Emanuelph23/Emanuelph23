@@ -1,6 +1,5 @@
 ### Olá! Eu sou Emanuel Philipi
-
-- 🔭 Buscando da minha primeira 
+ 
 - ✔ Bacharel em Ciências & Tecnologia
 - ✔ Aluno do curso de FullStack da Alura 
 - ✔ Participando do Desenvolve 2023 do Grupo Boticário
